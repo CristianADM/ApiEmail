@@ -53,7 +53,7 @@
 - Se debe crear un archivo .env que posea las siguientes variables de entorno: 
 
   ```
-    PORT: Puerto que se utilizara para exponer el backend (ej. 8080)
+    PORT: Puerto que se utilizara para exponer el backend (ej. 8000)
   ```
 - Se ejecuta el comando: npm install
 - Se ejecuta el comando: node app.js el cual ejecutara el proyecto.
